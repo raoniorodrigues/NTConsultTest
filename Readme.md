@@ -1,5 +1,3 @@
-Claro, aqui está um exemplo de um README para o seu projeto, baseado nas informações fornecidas:
-
 # Blog Agi Automation
 
 Este projeto visa automatizar os testes para o Blog Agi, utilizando Cucumber com Gherkin para especificações BDD e Capybara para automação de testes em Ruby.
