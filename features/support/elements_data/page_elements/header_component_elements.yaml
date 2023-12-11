@@ -1,0 +1,3 @@
+search_button: "#search-open"
+search_input_text: "input[type=search]"
+search_button_submit: "input[value=Pesquisar]"
